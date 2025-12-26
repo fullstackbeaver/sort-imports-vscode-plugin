@@ -21,7 +21,7 @@ Since this extension includes `vsce` (Visual Studio Code Extension Manager) as a
 
 1. **Clone the repository** (or download the code):
    ```bash
-   git clone https://github.com/yourusername/formatter-sort-align-imports
+   git clone https://github.com/fullstackbeaver/sort-imports-vscode-plugin
    cd formatter-sort-align-imports
    ```
 
